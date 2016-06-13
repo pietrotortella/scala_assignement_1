@@ -2,4 +2,4 @@
 
 Exercises for the course "Functional programming principle with scala" on coursera.
 
-Link: https://www.coursera.org/learn/progfun1
+Course website: https://www.coursera.org/learn/progfun1
